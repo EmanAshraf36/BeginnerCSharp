@@ -1,0 +1,14 @@
+/Users/mayman/RiderProjects/BeginnerCSharp/bin/Debug/net8.0/BeginnerCSharp
+/Users/mayman/RiderProjects/BeginnerCSharp/bin/Debug/net8.0/BeginnerCSharp.deps.json
+/Users/mayman/RiderProjects/BeginnerCSharp/bin/Debug/net8.0/BeginnerCSharp.runtimeconfig.json
+/Users/mayman/RiderProjects/BeginnerCSharp/bin/Debug/net8.0/BeginnerCSharp.dll
+/Users/mayman/RiderProjects/BeginnerCSharp/bin/Debug/net8.0/BeginnerCSharp.pdb
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/BeginnerCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/BeginnerCSharp.AssemblyInfoInputs.cache
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/BeginnerCSharp.AssemblyInfo.cs
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/BeginnerCSharp.csproj.CoreCompileInputs.cache
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/BeginnerCSharp.dll
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/refint/BeginnerCSharp.dll
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/BeginnerCSharp.pdb
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/BeginnerCSharp.genruntimeconfig.cache
+/Users/mayman/RiderProjects/BeginnerCSharp/obj/Debug/net8.0/ref/BeginnerCSharp.dll
